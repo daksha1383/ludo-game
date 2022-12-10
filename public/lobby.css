@@ -1,0 +1,27 @@
+th, td {
+    padding: 5px;
+}
+.th,td {
+    border: 3px solid rgb(165, 57, 57);
+    border-collapse: collapse;
+    /* border style: solid */
+}
+.panel-footer{
+    background-color: rgb(10, 114, 10);
+    
+}
+
+.panel-heading{
+    background-color: yellow
+}
+
+.panel-body{
+    background-color: rgb(10, 114, 10);
+}
+
+.popover{
+    max-width: 10%;
+}
+body {
+    background-color: #0333e2;
+}
